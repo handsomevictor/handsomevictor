@@ -1,11 +1,9 @@
-Hi, I'm Victor
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Victor%20Li&fontSize=40&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=header&text=Victor%20Li&fontSize=35&fontColor=ffffff"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=Algo+Trading+Systems;DevOps+%2F+Infra;Command+Tool+Builder;ML+Optimization+Under+Constraints"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=infra+building;AI+tool+building;optimization+for+AI+to+use;devops"/>
 </p>
 
 ---
