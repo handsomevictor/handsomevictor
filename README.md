@@ -13,16 +13,16 @@ My main areas of interest are:
 <table align="center">
   <tr>
     <td valign="top" width="50%" style="padding-right:20px;">
-      <p align="center" style="margin-bottom:20px;">
-        <img src="https://skillicons.dev/icons?i=python,rust,js" height="100" style="margin:10px"/>
-        <img src="https://skillicons.dev/icons?i=mysql,postgresql,clickhouse,kafka,influxdb" height="80" style="margin:10px"/>
+      <p align="center" style="margin-bottom:16px;">
+        <img src="https://skillicons.dev/icons?i=python,rust,js" height="70" style="margin:6px"/>
+        <img src="https://skillicons.dev/icons?i=mysql,postgresql,clickhouse,kafka,influxdb" height="70" style="margin:6px"/>
       </p>
-      <p align="center" style="margin-bottom:20px;">
-        <img src="https://skillicons.dev/icons?i=pytorch,sklearn,numpy,polars,optuna,pandas" height="80" style="margin:10px"/>
-        <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,linux" height="80" style="margin:10px"/>
+      <p align="center" style="margin-bottom:16px;">
+        <img src="https://skillicons.dev/icons?i=pytorch,sklearn,numpy,polars,optuna,pandas" height="70" style="margin:6px"/>
+        <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,linux" height="70" style="margin:6px"/>
       </p>
-      <p align="center" style="margin-bottom:20px;">
-        <img src="https://skillicons.dev/icons?i=git,bash,npm,flask,nginx,airflow,grafana" height="80" style="margin:10px"/>
+      <p align="center" style="margin-bottom:16px;">
+        <img src="https://skillicons.dev/icons?i=git,bash,npm,flask,nginx,airflow,grafana" height="70" style="margin:6px"/>
       </p>
     </td>
     <td valign="center" width="50%">
