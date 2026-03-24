@@ -20,6 +20,7 @@ My main areas of interest are:
 <!-- https://github.com/yoshi389111/github-profile-3d-contrib -->
 
 <!-- 左右排列：技能图在左，Stats 在右 -->
+<!-- 左右排列：技能图在左，Stats 在右 -->
 <table align="center">
   <tr>
     <!-- 左列：技能图 -->
@@ -39,8 +40,6 @@ My main areas of interest are:
         <img src="https://skillicons.dev/icons?i=git,bash,npm,flask,nginx,airflow,grafana" height="40" style="margin:4px"/>
       </p>
     </td>
-
-    <!-- 右列：Stats -->
     <td valign="top">
       <p align="center">
         <img src="https://streak-stats.demolab.com?user=handsomevictor&theme=tokyonight" height="130"/>
