@@ -4,7 +4,7 @@
 
 ---
 
-## 👨‍💼 About Me
+## About Me
 
 I am Victor, based in Paris.
 
@@ -18,7 +18,7 @@ My main areas of interest are:
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,rust,js" />
@@ -42,7 +42,7 @@ My main areas of interest are:
 
 ---
 
-## 🔥 Streak
+## Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=handsomevictor&theme=tokyonight" />
