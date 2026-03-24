@@ -36,9 +36,9 @@ My main areas of interest are:
     </td>
     <td valign="top">
       <p align="center">
-        <img src="https://streak-stats.demolab.com?user=handsomevictor&theme=tokyonight" height="200"/>
+        <img src="https://streak-stats.demolab.com?user=handsomevictor&theme=tokyonight" height="260"/>
         <br/>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=handsomevictor&theme=tokyonight" height="200"/>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=handsomevictor&theme=tokyonight" height="260"/>
       </p>
     </td>
   </tr>
