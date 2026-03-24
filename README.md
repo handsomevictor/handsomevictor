@@ -21,17 +21,17 @@ My main areas of interest are:
     <td valign="top">
       <p align="center">
         <!-- 第一行技能 -->
-        <img src="https://skillicons.dev/icons?i=python,rust,js" height="60" style="margin:4px"/>
-        <img src="https://skillicons.dev/icons?i=mysql,postgresql,clickhouse,kafka,influxdb" height="40" style="margin:4px"/>
+        <img src="https://skillicons.dev/icons?i=python,rust,js" height="80" style="margin:4px"/>
+        <img src="https://skillicons.dev/icons?i=mysql,postgresql,clickhouse,kafka,influxdb" height="80" style="margin:4px"/>
       </p>
       <p align="center">
         <!-- 第二行技能 -->
-        <img src="https://skillicons.dev/icons?i=pytorch,sklearn,numpy,polars,optuna,pandas" height="60" style="margin:4px"/>
-        <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,linux" height="40" style="margin:4px"/>
+        <img src="https://skillicons.dev/icons?i=pytorch,sklearn,numpy,polars,optuna,pandas" height="80" style="margin:4px"/>
+        <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,linux" height="80" style="margin:4px"/>
       </p>
       <p align="center">
         <!-- 第三行技能 -->
-        <img src="https://skillicons.dev/icons?i=git,bash,npm,flask,nginx,airflow,grafana" height="60" style="margin:4px"/>
+        <img src="https://skillicons.dev/icons?i=git,bash,npm,flask,nginx,airflow,grafana" height="80" style="margin:4px"/>
       </p>
     </td>
     <td valign="top">
