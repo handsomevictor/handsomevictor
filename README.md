@@ -27,7 +27,7 @@ My main areas of interest are:
     </td>
     <td valign="top" width="50%">
       <p align="center">
-        <img src="https://streak-stats.demolab.com?user=handsomevictor&theme=tokyonight" height="300"/>
+        <img src="https://streak-stats.demolab.com?user=handsomevictor&theme=tokyonight" height="400"/>
       </p>
     </td>
   </tr>
