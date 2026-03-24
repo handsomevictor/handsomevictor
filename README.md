@@ -18,8 +18,6 @@ My main areas of interest are:
 
 ---
 
-## Tech Stack
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,rust,js" />
 </p>
@@ -40,46 +38,18 @@ My main areas of interest are:
   <img src="https://skillicons.dev/icons?i=git,bash,npm,flask,nginx,airflow,grafana" />
 </p>
 
----
-
-## Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=handsomevictor&theme=tokyonight" />
 </p>
 
----
-
-## 📈 Activity Graph
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=handsomevictor&theme=tokyonight" />
 </p>
 
----
-
-## 😂 Random Joke
-
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## 🧊 3D Contribution Graph
-
 <!-- 需要 GitHub Action -->
 <!-- https://github.com/yoshi389111/github-profile-3d-contrib -->
-
-
 
 
 <p align="center">
