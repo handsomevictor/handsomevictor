@@ -25,7 +25,7 @@ My main areas of interest are:
         <img src="https://skillicons.dev/icons?i=git,bash,npm,flask,nginx,airflow,grafana" height="80" style="margin:10px"/>
       </p>
     </td>
-    <td valign="top" width="50%">
+    <td valign="center" width="50%">
       <p align="center">
         <img src="https://streak-stats.demolab.com?user=handsomevictor&theme=tokyonight" height="400"/>
       </p>
