@@ -34,5 +34,5 @@ My main areas of interest are:
 </table>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=handsomevictor&theme=tokyonight" height="300" width="800"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=handsomevictor&theme=tokyonight" height="300" width="1200"/>
 </p>
