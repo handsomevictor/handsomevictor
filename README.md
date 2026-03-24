@@ -15,14 +15,14 @@ My main areas of interest are:
     <td valign="top" width="50%" style="padding-right:20px;">
       <p align="center" style="margin-bottom:20px;">
         <img src="https://skillicons.dev/icons?i=python,rust,js" height="100" style="margin:10px"/>
-        <img src="https://skillicons.dev/icons?i=mysql,postgresql,clickhouse,kafka,influxdb" height="100" style="margin:10px"/>
+        <img src="https://skillicons.dev/icons?i=mysql,postgresql,clickhouse,kafka,influxdb" height="80" style="margin:10px"/>
       </p>
       <p align="center" style="margin-bottom:20px;">
-        <img src="https://skillicons.dev/icons?i=pytorch,sklearn,numpy,polars,optuna,pandas" height="100" style="margin:10px"/>
-        <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,linux" height="100" style="margin:10px"/>
+        <img src="https://skillicons.dev/icons?i=pytorch,sklearn,numpy,polars,optuna,pandas" height="80" style="margin:10px"/>
+        <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,linux" height="80" style="margin:10px"/>
       </p>
       <p align="center" style="margin-bottom:20px;">
-        <img src="https://skillicons.dev/icons?i=git,bash,npm,flask,nginx,airflow,grafana" height="100" style="margin:10px"/>
+        <img src="https://skillicons.dev/icons?i=git,bash,npm,flask,nginx,airflow,grafana" height="80" style="margin:10px"/>
       </p>
     </td>
     <td valign="top" width="50%">
