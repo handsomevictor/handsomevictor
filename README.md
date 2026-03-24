@@ -1,9 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=60&section=header&text=Victor%20Li&fontSize=24&fontColor=ffffff"/>
-</p>
-
----
-
 ## About Me
 
 I am Victor, based in Paris.
