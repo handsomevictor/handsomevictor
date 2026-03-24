@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=header&text=Victor%20Li&fontSize=35&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=60&section=header&text=Victor%20Li&fontSize=24&fontColor=ffffff"/>
 </p>
 
 ---
@@ -42,9 +42,9 @@ My main areas of interest are:
     </td>
     <td valign="top">
       <p align="center">
-        <img src="https://streak-stats.demolab.com?user=handsomevictor&theme=tokyonight" height="180"/>
+        <img src="https://streak-stats.demolab.com?user=handsomevictor&theme=tokyonight" height="200"/>
         <br/>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=handsomevictor&theme=tokyonight" height="130"/>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=handsomevictor&theme=tokyonight" height="200"/>
       </p>
     </td>
   </tr>
