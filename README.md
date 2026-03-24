@@ -22,20 +22,30 @@ My main areas of interest are:
 <!-- 左右排列：技能图在左，Stats 在右 -->
 <table align="center">
   <tr>
-    <td>
+    <!-- 左列：技能图 -->
+    <td valign="top">
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=python,rust,js" height="30" />
-        <img src="https://skillicons.dev/icons?i=mysql,postgresql,clickhouse,kafka,influxdb" height="30" />
-        <img src="https://skillicons.dev/icons?i=pytorch,sklearn,numpy,polars,optuna,pandas" height="30" />
-        <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,linux" height="30" />
-        <img src="https://skillicons.dev/icons?i=git,bash,npm,flask,nginx,airflow,grafana" height="30" />
+        <!-- 第一行技能 -->
+        <img src="https://skillicons.dev/icons?i=python,rust,js" height="40" style="margin:4px"/>
+        <img src="https://skillicons.dev/icons?i=mysql,postgresql,clickhouse,kafka,influxdb" height="40" style="margin:4px"/>
+      </p>
+      <p align="center">
+        <!-- 第二行技能 -->
+        <img src="https://skillicons.dev/icons?i=pytorch,sklearn,numpy,polars,optuna,pandas" height="40" style="margin:4px"/>
+        <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,linux" height="40" style="margin:4px"/>
+      </p>
+      <p align="center">
+        <!-- 第三行技能 -->
+        <img src="https://skillicons.dev/icons?i=git,bash,npm,flask,nginx,airflow,grafana" height="40" style="margin:4px"/>
       </p>
     </td>
-    <td>
+
+    <!-- 右列：Stats -->
+    <td valign="top">
       <p align="center">
-        <img src="https://streak-stats.demolab.com?user=handsomevictor&theme=tokyonight" height="120"/>
+        <img src="https://streak-stats.demolab.com?user=handsomevictor&theme=tokyonight" height="130"/>
         <br/>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=handsomevictor&theme=tokyonight" height="120"/>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=handsomevictor&theme=tokyonight" height="130"/>
       </p>
     </td>
   </tr>
